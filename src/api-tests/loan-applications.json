@@ -1,0 +1,34 @@
+{
+  "loanApplications": [
+    {
+      "id": "1",
+      "applicantName": "Alissa",
+      "loanAmount": 50000,
+      "loanType": "CAR",
+      "income": 200000,
+      "interestRate": 10,
+      "loanTerm": 5,
+      "monthlyPayment": 1062.35
+    },
+    {
+      "id": "2",
+      "applicantName": "Viktor",
+      "loanAmount": 100000,
+      "loanType": "PERSONAL",
+      "income": 300000,
+      "interestRate": 15,
+      "loanTerm": 2,
+      "monthlyPayment": 4848.66
+    },
+    {
+      "id": "3",
+      "applicantName": "Rose",
+      "loanAmount": 70000,
+      "loanType": "PERSONAL",
+      "income": 400000,
+      "interestRate": 5,
+      "loanTerm": 2,
+      "monthlyPayment": 3071
+    }
+  ]
+}
