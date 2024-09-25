@@ -3,7 +3,6 @@
   "extension": ["ts"],
   "watch-files": ["src/**/*.ts"],
   "spec": ["src/**/*.test.ts"],
-  "exclude": ["src/**/*.api.test.ts", "src/**/*.integration.test.ts"],
   "exit": true,
   "timeout": 10000,
   "require": "ts-node/register"
